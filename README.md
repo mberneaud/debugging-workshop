@@ -6,10 +6,10 @@ This repo is supposed to give you a small introduction to the world of debugging
 
 In order to use the VS Code debugger for Python, you need to install the official Microsoft Python Extension for VSCode. You can do so by opening the extensions panel on the left (it looks like a block of bricks) and search for 'Python' in the search field, then installing the extension.
 
-Also, to check your code after the completion, you need the pylint Python module installed. In order to do that, run the following command in your terminal.
+Also, to check your code after the completion, you need the pylint and pytest modules installed. In order to do that, run the following command in your terminal.
 
 ```bash
-pip install pylint
+pip install pylint pytest
 ```
 
 ## What is debugging?
